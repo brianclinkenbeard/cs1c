@@ -1,0 +1,2 @@
+# Assignments from CS1C - Introduction to Computer Science III
+*The third and final course in the Introduction to Computer Science series. Designed for computer science majors and interested professionals. Topics include lexical conventions, data types, classes, constructors, destructors, overloading, conversions, inheritance, exceptions, and I/O. Solutions will be implemented using a high-level language - currently C++.*
